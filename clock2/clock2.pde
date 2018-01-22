@@ -27,7 +27,7 @@ void setup(){
 
 void draw(){
   background(c,0,0, 50);
-  c= map(x,0, 60, 100,50);
+  c= map(x,0, 60, 150,50);
   
   noFill();
   stroke(220);
