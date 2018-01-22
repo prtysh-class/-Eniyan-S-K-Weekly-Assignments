@@ -26,7 +26,7 @@ void setup(){
 
 
 void draw(){
-  background(0,0,c, 50);
+  background(c,0,0, 50);
   c= map(x,0, 60, 100,50);
   
   noFill();
