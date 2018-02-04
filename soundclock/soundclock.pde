@@ -37,7 +37,7 @@ void setup(){
    reverb = new Reverb (this);
    
    //CLOCK
-   frameRate(5);
+   frameRate(8);
    clock = loadShape("clock2.svgz");
    clock.disableStyle();
  
